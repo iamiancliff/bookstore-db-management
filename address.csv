@@ -1,0 +1,11 @@
+address_id,street,city,postal_code,country_id
+1,123 Elm St,New York,10001,1
+2,456 Maple Ave,Toronto,M5H 2N2,2
+3,789 Oak Rd,London,E1 6AN,3
+4,101 Pine Ln,Sydney,2000,4
+5,202 Birch Blvd,Mumbai,400001,5
+6,303 Cedar Dr,Berlin,10115,6
+7,404 Willow Way,Paris,75001,7
+8,505 Redwood St,Madrid,28001,8
+9,606 Sequoia Blvd,Rome,00100,9
+10,707 Pinecrest Dr,Monterrey,64000,10
